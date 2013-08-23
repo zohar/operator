@@ -7,9 +7,7 @@
   <Say voice="alice">
     If the call is unanswered, please try again later or send an email to zohar at linnovate dot net, That's Z O H A R at L I N N O V A T E dot N E T
   </Say>
-  <Response>
-      <Dial>+33695805004</Dial>
-  </Response>
+  <Dial>+33695805004</Dial>
   <Pause length=".5"/>
   <Gather numDigits="1" action="hello-monkey-handle-key.php" method="POST">
     <Say>For Zohar's mobile Press 1. For Zohar's office number press 2.</Say>
