@@ -3,16 +3,16 @@
   <Say voice="alice">
     Thanks for the call. Zohar will be with you shortly.
   </Say>
-  <Pause length="1"/>
+  <Dial>+33695805004</Dial>
+<!--  <Pause length="1"/>
   <Say voice="alice">
     If the call is unanswered, please try again later or send an email to zohar, at, linnovate, dot, net, That is Z O H A R, at, L I N N O V A T E, dot, N E T
-  </Say>
-  <Dial>+33695805004</Dial>
+  </Say> -->
 <!--  <Gather numDigits="1" action="hello-monkey-handle-key.php" method="POST">
     <Say>For Zohar's mobile Press 1. For Zohar's office number press 2.</Say>
   </Gather>-->
-  <Pause length="1"/>
+<!--  <Pause length="1"/>
   <Say voice="alice">
     Thanks and have a great day!
-  </Say>
+  </Say> -->
 </Response>
