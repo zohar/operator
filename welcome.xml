@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice">
-    Thanks for the call. Zohar will be with you shortly.
+    Please hold while you're being connected.
   </Say>
   <Dial>+33695805004</Dial>
 <!--  <Pause length="1"/>
