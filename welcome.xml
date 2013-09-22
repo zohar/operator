@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">
-    Please hold while you're being connected.
-  </Say>
-  <Dial>+33695805004</Dial>
+  <!-- <Say voice="alice">
+      Please hold while you're being connected.
+    </Say> -->
+  <!-- <Dial>+33695805004</Dial> --> <!-- Mobile -->
+  <Dial>+33475353066</Dial> <!-- Home -->
 <!--  <Pause length="1"/>
   <Say voice="alice">
     If the call is unanswered, please try again later or send an email to zohar, at, linnovate, dot, net, That is Z O H A R, at, L I N N O V A T E, dot, N E T
