@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <!-- <Say voice="alice">
+      Please hold while you're being connected.
+    </Say> -->
+  <Dial>+972722707999</Dial><!-- Bipper -->
+</Response>
