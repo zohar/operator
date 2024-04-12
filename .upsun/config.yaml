@@ -2,9 +2,7 @@
 applications:
   operator:
 
-    source:
-      root: "/"
-    type: "nodejs:20"
+    stack: ["nodejs"]
 
     web:
       commands:
