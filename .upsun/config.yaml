@@ -8,18 +8,10 @@ applications:
 
     web:
       commands:
-        start: sleep infinity
-        
+        start: sleep infinity        
       locations:
         "/":
           root: ""
           passthru: true
         # Disable server-side scripts
           scripts: false
-routes:
-  "https://{default}/":
-    type: upstream
-    upstream: "operator:http"
-  "https://www.{default}":
-    type: redirect
-    to: "https://{default}/"
