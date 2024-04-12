@@ -2,7 +2,7 @@
 applications:
   operator:
 
-    stack: ["nodejs"]
+    stack: ""
 
     web:
       commands:
