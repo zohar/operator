@@ -2,7 +2,7 @@
 applications:
   operator:
 
-    stack: ""
+    stack: []
 
     web:
       commands:
