@@ -12,7 +12,7 @@ applications:
         
       locations:
         "/":
-          root: "/"
+          root: ""
           passthru: true
         # Disable server-side scripts
           scripts: false
