@@ -1,7 +1,7 @@
 applications:
   operator:
 
-    stack: ["ponysay"]
+    stack: ["cowsay"]
 
     web:
       commands:
