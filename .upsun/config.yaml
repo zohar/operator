@@ -1,12 +1,12 @@
-
 applications:
   operator:
 
-    stack: ["cowsay"]
+    stack: ["poneysay"]
 
     web:
       commands:
-        start: sleep infinity        
+        start: sleep infinity
+
       locations:
         "/":
           root: ""
